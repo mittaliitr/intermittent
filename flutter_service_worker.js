@@ -18,14 +18,14 @@ const RESOURCES = {"flutter.js": "6fef97aeca90b426343ba6c5c9dc5d4a",
 "canvaskit/canvaskit.wasm": "f48eaf57cada79163ec6dec7929486ea",
 "canvaskit/skwasm.worker.js": "19659053a277272607529ef87acf9d8a",
 "manifest.json": "795e87aa16c26d26ef4f179011be6604",
-"main.dart.js": "474546403d9daa8567e6b9a29ef1517c",
-"index.html": "5c5003c0bc6d005e0b358d5d70a3b7b8",
-"/": "5c5003c0bc6d005e0b358d5d70a3b7b8",
+"main.dart.js": "24f37869dca38542f2432bc5da000f53",
+"index.html": "2c36f667ef1e7d7ddde4cd803604e087",
+"/": "2c36f667ef1e7d7ddde4cd803604e087",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/AssetManifest.json": "99914b932bd37a50b983c5e7c90ae93b",
 "assets/fonts/MaterialIcons-Regular.otf": "62ec8220af1fb03e1c20cfa38781e17e",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
-"assets/NOTICES": "5dd5ce643f20d2b7a237f9b7a154fd05",
+"assets/NOTICES": "cb5dc8e0ad68f1377d767f3c4f3c1c18",
 "assets/AssetManifest.bin": "0b0a3415aad49b6e9bf965ff578614f9"};
 // The application shell files that are downloaded before a service worker can
 // start.
